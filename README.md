@@ -1,4 +1,4 @@
-# Embedded_System_3rd_Year_Projects
+# AC Parameter Measurement using Microcontroller (Embedded_System_3rd_Year_Projects)
 AC parameter measurement is one of the most important task in laboratory to study about different machines, three phase line, the electronics etc. and industry to measure power, voltage, frequency, current for the industrial safety and control. This low cost device is capable of measuring AC parameter voltage, current, frequency, power factor, power, energy with only a small error and this error can be removed by proper calibration. This low cost and small size device is capable of carrying anywhere and easy to operate.
 ![Alt text](IMG_20150429_124241.jpg)
 # AC Voltage Measurement
